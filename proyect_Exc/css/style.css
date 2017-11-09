@@ -1,0 +1,16 @@
+
+div{
+  height:100px;
+  padding: 20px 5px 5px 50px;
+  margin-bottom: 10px;
+
+}
+.yellow_flag{
+  background-color: #F7B617;
+  color: black;
+}
+
+.grey_flag{
+  background-color: #262626;
+  color:#FFFFFF ;
+}
